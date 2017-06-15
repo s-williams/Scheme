@@ -1,8 +1,8 @@
 ; ; ; Coursework 1
 ; ; ; Question 2
-; ; ; Scott Williams saw1g15@soton.ac.uk
+; ; ; Scott Williams 
 ; ; ;
-; ; ; 27634043
+; ; ; 
 ; ; ; remove-alist-all.scm
 ; ; ; remove-alist-all takes a symbolic expression and an association list and returns a new association list 
 ; ; ; containing the same associations as in the input list.
