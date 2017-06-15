@@ -1,8 +1,8 @@
 ; ; ; Coursework 1
 ; ; ; Question 1
-; ; ; Scott Williams saw1g15@soton.ac.uk
+; ; ; Scott Williams
 ; ; ;
-; ; ; 27634043
+; ; ; 
 ; ; ; assoc-all.scm
 ; ; ; assoc-all takes a symbolic expression and an association list and returns
 ; ; ; the list of values associated with that expression, in the order they occur in the association list.
