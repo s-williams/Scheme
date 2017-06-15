@@ -1,8 +1,8 @@
 ; ; ; Coursework 1
 ; ; ; Question 3
-; ; ; Scott Williams saw1g15@soton.ac.uk
+; ; ; Scott Williams 
 ; ; ;
-; ; ; 27634043
+; ; ; 
 ; ; ; group-by-key.scm
 ; ; ; group-by-key takes an association list and returns a new association list in which all values associated
 ; ; ; with each key have been grouped together in their own list in order of occurence.
