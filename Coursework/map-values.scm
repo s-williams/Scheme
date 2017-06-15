@@ -1,8 +1,8 @@
 ; ; ; Coursework 1
 ; ; ; Question 4
-; ; ; Scott Williams saw1g15@soton.ac.uk
+; ; ; Scott Williams 
 ; ; ;
-; ; ; 27634043
+; ; ; 
 ; ; ; map-values.scm
 ; ; ; map-values takes an association list and a function and returns a new association list with the same
 ; ; ; keys in the same order where the values are the result of the fucntion.
